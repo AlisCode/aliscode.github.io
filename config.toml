@@ -2,7 +2,7 @@
 base_url = "https://pinon.dev"
 
 # Whether to automatically compile all Sass files in the sass directory
-compile_sass = true
+compile_sass = false
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
@@ -16,8 +16,7 @@ theme = "DeepThought"
 
 # Languages
 languages = [
-	{code = "fr", feed = true},
-	{code = "fr", search = true},
+	{code = "fr", feed = true, search = true},
 ]
 
 [markdown]

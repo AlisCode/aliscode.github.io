@@ -1,8 +1,8 @@
 +++
 title = "Prelude."
 description = "An introduction to this blog."
-date = "2021-02-25"
-categories = ["en", "hello"]
+date = 2021-02-25
+lang = "en"
 +++
 
 # Hello world!
