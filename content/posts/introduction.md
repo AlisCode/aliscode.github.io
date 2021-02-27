@@ -3,6 +3,9 @@ title = "Prelude."
 description = "An introduction to this blog."
 date = 2021-02-25
 lang = "en"
+
+[taxonomies]
+tags = ["off-topic"]
 +++
 
 # Hello world!

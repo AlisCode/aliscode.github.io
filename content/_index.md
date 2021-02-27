@@ -20,6 +20,6 @@ I love :
 * Putting dots when ending my sentences.
 * Having boring passions that everyone puts on their website.
 
-My software skills includes but are not limited to : Rust, TypeScript, C/C++, Postgres, React/Vue. 
+My software skills include but are not limited to : Rust, TypeScript, C/C++, Postgres, React/Vue. 
 
 **Opinions are my own.**

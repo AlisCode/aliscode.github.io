@@ -14,10 +14,19 @@ description = "Tech. Opinions."
 # Theme
 theme = "DeepThought"
 
+# Taxonomies
+taxonomies = [
+	{ name = "tags", feed = true, lang = "en" },
+	{ name = "tags", feed = true, lang = "fr" }
+]
+
 # Languages
 languages = [
 	{code = "fr", feed = true, search = true},
 ]
+
+[slugify]
+taxonomies = "on"
 
 [markdown]
 # Whether to do syntax highlighting
