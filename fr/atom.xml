@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
+	<title>Olivier Pinon - Tech. Opinions.</title>
+	<subtitle>Tech. Opinions.</subtitle>
+	<link href="https://pinon.dev/fr/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pinon.dev"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-02-25T00:00:00+00:00</updated>
+	<id>https://pinon.dev/fr/atom.xml</id>
+	<entry xml:lang="fr">
+		<title>Prélude.</title>
+		<published>2021-02-25T00:00:00+00:00</published>
+		<updated>2021-02-25T00:00:00+00:00</updated>
+		<link href="https://pinon.dev/fr/posts/introduction/" type="text/html"/>
+		<id>https://pinon.dev/fr/posts/introduction/</id>
+		<content type="html">&lt;h1 id=&quot;bonjour&quot;&gt;Bonjour !&lt;&#x2F;h1&gt;
+&lt;p&gt;Ceci est mon blog. Il est fait avec &lt;a href=&quot;https:&#x2F;&#x2F;pinon.dev&#x2F;fr&#x2F;posts&#x2F;introduction&#x2F;getzola.org&quot;&gt;Zola&lt;&#x2F;a&gt;, un générateur de site statique fait en Rust. Le thème est &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;RatanShreshtha&#x2F;DeepThought&quot;&gt;DeepThought&lt;&#x2F;a&gt;. &lt;&#x2F;p&gt;
+&lt;p&gt;Je ne pense pas faire de posts très fréquents sur ce blog. Quand quelquechose me viendra à l&#x27;esprit, j&#x27;écrirai à ce propos. Certains de ces posts seront en Français, d&#x27;autres en Anglais. En guise d&#x27;exercice intéressant, je vais tâcher de traduire ces posts dans toutes les langues que je parle. &lt;&#x2F;p&gt;
+&lt;p&gt;A bientôt ! 👋 &lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
