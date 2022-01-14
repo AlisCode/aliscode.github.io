@@ -1,8 +1,9 @@
 # The URL the site will be built for
 base_url = "https://pinon.dev"
 
-# Whether to automatically compile all Sass files in the sass directory
+# SASS/HTML config
 compile_sass = false
+minify_html = false
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
@@ -10,6 +11,8 @@ build_search_index = true
 # Base
 title = "Olivier Pinon - Tech. Opinions."
 description = "Tech. Opinions."
+default_language = "en"
+output_dir = "public"
 
 # Theme
 theme = "DeepThought"
@@ -18,11 +21,6 @@ theme = "DeepThought"
 taxonomies = [
 	{ name = "tags", feed = true, lang = "en" },
 	{ name = "tags", feed = true, lang = "fr" }
-]
-
-# Languages
-languages = [
-	{code = "fr", feed = true, search = true},
 ]
 
 [slugify]
@@ -35,8 +33,10 @@ highlight_code = true
 
 [extra]
 navbar_items = [
-	{ url = "$BASE_URL/", name = "Home" },
-	{ url = "$BASE_URL/posts", name = "Posts" },
+    { code = "en", nav_items = [
+            { url = "$BASE_URL/", name = "Home" },
+            { url = "$BASE_URL/posts", name = "Posts" },
+    ] },
 ]
 
 [extra.author]
