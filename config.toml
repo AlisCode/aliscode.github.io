@@ -48,3 +48,9 @@ email = "oliv.pinon@gmail.com"
 gitlab = "opinon"
 github = "AlisCode"
 twitter = "_opinon"
+
+[extra.mapbox]
+enabled = false
+
+[extra.galleria]
+enabled = false
