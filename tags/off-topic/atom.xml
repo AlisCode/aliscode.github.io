@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Olivier Pinon - Tech. Opinions. - off-topic</title>
+	<subtitle>Tech. Opinions.</subtitle>
+	<link href="https://pinon.dev/tags/off-topic/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pinon.dev"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-02-25T00:00:00+00:00</updated>
+	<id>https://pinon.dev/tags/off-topic/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Prelude</title>
+		<published>2021-02-25T00:00:00+00:00</published>
+		<updated>2021-02-25T00:00:00+00:00</updated>
+		<link href="https://pinon.dev/posts/introduction/" type="text/html"/>
+		<id>https://pinon.dev/posts/introduction/</id>
+		<content type="html">&lt;h1 id=&quot;hello-world&quot;&gt;Hello world!&lt;&#x2F;h1&gt;
+&lt;p&gt;This is my blog! It&#x27;s made using &lt;a href=&quot;getzola.org&quot;&gt;Zola&lt;&#x2F;a&gt;, a static site generator made with Rust. The theme is &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;RatanShreshtha&#x2F;DeepThought&quot;&gt;DeepThought&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;I dont plan on doing frequent blog posts. When something comes to mind, I&#x27;ll write about it.&lt;&#x2F;p&gt;
+&lt;p&gt;See you around ! 👋&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
